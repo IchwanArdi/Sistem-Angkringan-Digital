@@ -28,7 +28,8 @@
         "DB_CONNECTION": "mysql",
         "DB_HOST": "4gg.h.filess.io",
         "DB_PORT": "3306",
-        "DB_DATABASE": "angkringan_db",
-        "DB_USERNAME": "angkringan_db"
+        "DB_DATABASE": "angkringan_winpigpain",
+        "DB_USERNAME": "angkringan_winpigpain",
+        "DB_PASSWORD": "5b19a86dee6417ebb040859ff12587eb67ec11b7"
     }
 }
