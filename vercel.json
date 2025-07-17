@@ -26,8 +26,8 @@
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie",
         "DB_CONNECTION": "mysql",
-        "DB_HOST": "4gg.h.filess.io",
-        "DB_PORT": "3306",
+        "DB_HOST": "doeb4x.h.filess.io",
+        "DB_PORT": "3307",
         "DB_DATABASE": "angkringan_winpigpain",
         "DB_USERNAME": "angkringan_winpigpain",
         "DB_PASSWORD": "5b19a86dee6417ebb040859ff12587eb67ec11b7"
